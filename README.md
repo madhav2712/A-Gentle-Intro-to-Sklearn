@@ -15,12 +15,7 @@ Data science is a much broader discipline.
 
 Data Scientists take the raw data, analyse it, connect the dots and tell a story often via several visualizations. They usually have a broader range of skill-set and may not have too much depth into more than one or two. They are more on the creative side. Like an Artist. An Engineer, on the other hand, is someone who looks at the data as something they have to take in and churn out an output in some appropriate form in the most efficient way possible. The implementation details and other efficiency hacks are usually on the tip of their fingers. There can be a lot of overlap between the two but it is more like A Data Scientist is a Machine Learning Engineer but not the other way round. -- Ria Chakraborty, Data Scientist
 
-
-
-
-
-
-Machine Learning Can Only Answer 5 Questions
+*** Machine Learning Can Only Answer 5 Questions ****
 •How much/how many?
 •Which category?
 •Which group?
